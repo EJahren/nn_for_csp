@@ -34,3 +34,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# Data fetched with data/get.sh
+data/*.zip
+data/*.txt
+data/*.param
+data/ProblemDataSet200to400/*
