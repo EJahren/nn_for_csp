@@ -29,6 +29,7 @@ def run_neural_networks_for_csp(args):
 def parse_args_and_run(argv):
     run_neural_networks_for_csp(parse_args(argv))
 
+
 def main():
     parse_args_and_run(sys.argv)
 

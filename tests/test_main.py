@@ -1,4 +1,5 @@
 import pytest
+
 from neural_networks_for_csp.__main__ import parse_args_and_run
 
 
